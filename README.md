@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-#TEAMMATES Developer Web Site
+#teammates-juniorusca
+
+https://teammates-juniorusca.appspot.com
 
 TEAMMATES is a free online tool for managing peer evaluations and other 
 feedback paths of your students. It is provided as a cloud-based service for 
@@ -56,10 +57,3 @@ Here are some documents important for TEAMMATES developers:
       * [Measuring Scalability and Performance](https://docs.google.com/document/pub?id=1C7fn11fKsgGUx0AT_nH9ZQBi3G7o5zpYqwIIAC40CxU&embedded=true) - by James Dam Tuan Long 
       * [Improving Scalability and Performance](https://docs.google.com/document/pub?id=1v_RYw_Hu1-TExVi0A7d3kxX0CTgFaUtfV1_qYXBhwWs&embedded=true) - by James Dam Tuan Long
       * [Entity Search Facility](https://docs.google.com/document/pub?id=1Ns7NJzHFlwMQaN3LzOdSLb80SaRhN2-2OzrDgwDMIRg&embedded=true) - by Wang Sha
-
-=======
-teammates-juniorusca
-====================
-
-https://teammates-juniorusca.appspot.com
->>>>>>> 9bd90a6f26b4dd88b60fbe562b3f76d4b8c3c716
